@@ -1,6 +1,6 @@
 {
-  "name": "js-yaml",
-  "version": "3.12.0",
+  "name": "@kyleshockey/js-yaml",
+  "version": "1.0.0",
   "description": "YAML 1.2 parser and serializer",
   "keywords": [
     "yaml",
@@ -9,14 +9,15 @@
     "pyyaml"
   ],
   "homepage": "https://github.com/nodeca/js-yaml",
-  "author": "Vladimir Zapparov <dervus.grim@gmail.com>",
+  "author": "Kyle Shockey <kyleshockey@gmail.com>",
   "contributors": [
+    "Vladimir Zapparov <dervus.grim@gmail.com>",
     "Aleksey V Zapparov <ixti@member.fsf.org> (http://www.ixti.net/)",
     "Vitaly Puzrin <vitaly@rcdesign.ru> (https://github.com/puzrin)",
     "Martin Grenfell <martin.grenfell@gmail.com> (http://got-ravings.blogspot.com)"
   ],
   "license": "MIT",
-  "repository": "nodeca/js-yaml",
+  "repository": "shockey/js-yaml",
   "files": [
     "index.js",
     "lib/",
