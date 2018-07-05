@@ -1,3 +1,9 @@
+This fork of `js-yaml` is optimized for browsers. It differs from the original in the following ways:
+
+- Esprima is never pulled in as a dependency, it's only checked for globally - which plays nicer with Webpack.
+
+---
+
 JS-YAML - YAML 1.2 parser / writer for JavaScript
 =================================================
 
